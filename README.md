@@ -3,7 +3,7 @@
 </a>
 
 # 💫 About Me:
-Hello! I'm Master a Jr programmer with experience in Python and HTML. I'm exploring the world of JavaScript and Dart, ready for new challenges and collaborating on projects!
+Hello! I'm Master a Jr programmer and Computer Engineer with experience in Python and HTML. I'm exploring the world of JavaScript and Dart, ready for new challenges and collaborating on projects!
 
 <strong><h2>🌐 Socials:</h2></strong> 
 
