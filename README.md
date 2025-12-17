@@ -3,17 +3,17 @@
 </a>
 
 # 💫 About Me:
-Hello! I'm Master a Jr programmer and Computer Engineer with experience in Python and HTML. I'm exploring the world of JavaScript and Dart, ready for new challenges and collaborating on projects!
+Hello! I'm Master a Jr programmer and Computer Engineer with experience in Web and Web App Development. I'm love exploring new things like a new framework or plugin, ready for new challenges and collaborating on projects!
 
 <strong><h2>🌐 Socials:</h2></strong> 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/master_binn3r) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mast3rsk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardpro17@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduard0x.rm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mast3rsk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardpro17@gmail.com) 
 
 # 💻 Tech Stack:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,qt,git,github,java,js,dart,flutter,bots,linux,ubuntu,windows,powershell,html,firebase,redis,mongodb,sqlite,tailwind,vscode,aws,discord,gmail&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,flask,qt,git,github,java,js,react,nextjs,pnpm,dart,flutter,bots,linux,ubuntu,windows,powershell,html,firebase,redis,mongodb,postgresql,sqlite,tailwind,vscode,aws,discord,gmail&perline=14" />
   </a>
 
 ## 👑 Github Stats
