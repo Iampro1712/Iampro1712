@@ -1,19 +1,19 @@
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVkYjVxOXpla25rMnVuNnhjeHl5ZDlxZHFjbHM4cWVmcG9vcm0zdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 </a>
 
 # 💫 About Me:
-Hello! I'm Master a Jr programmer and Computer Engineer with experience in Web and Web App Development. I'm love exploring new things like a new framework or plugin, ready for new challenges and collaborating on projects!
+Hello! I'm MasterDev a Jr programmer and Computer Engineer with experience in Web and Web App Development. I'm love exploring new things like a new framework or plugin, ready for new challenges and collaborating on projects!
 
 <strong><h2>🌐 Socials:</h2></strong> 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduard0x.rm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mast3rsk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eduardpro17@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduard0x.rm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mast3rsk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:master_bc@icloud.com) 
 
 # 💻 Tech Stack:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,qt,git,github,java,js,react,nextjs,pnpm,dart,flutter,bots,linux,ubuntu,windows,powershell,html,firebase,redis,mongodb,postgresql,sqlite,tailwind,vscode,aws,discord,gmail&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,flask,qt,git,github,java,js,react,nextjs,nestjs,pnpm,dart,ts,vercel,vscode,bots,linux,ubuntu,windows,debian,powershell,html,supabase,redis,mongodb,postgresql,sqlite,mysql,tailwind,vscode,aws,discord,gmail&perline=14" />
   </a>
 
 ## 👑 Github Stats
