@@ -13,7 +13,7 @@ Hello! I'm MasterDev a Jr programmer and Computer Engineer with experience in We
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,qt,git,github,java,js,react,nextjs,nestjs,pnpm,dart,ts,vercel,vscode,bots,linux,ubuntu,windows,debian,powershell,html,supabase,redis,mongodb,postgresql,sqlite,mysql,tailwind,vscode,aws,discord,gmail&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,flask,qt,elixir,git,github,java,js,react,nextjs,nestjs,astro,pnpm,bun,dart,ts,vercel,vscode,bots,linux,ubuntu,windows,debian,arch,powershell,html,supabase,redis,mongodb,postgresql,sqlite,mysql,tailwind,vscode,aws,discord,gmail&perline=14" />
   </a>
 
 ## 👑 Github Stats
