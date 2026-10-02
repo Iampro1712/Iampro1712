@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset="1" stop-color="#3dff9a"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.h{font-family:'Fira Code','JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace;font-size:28px;font-weight:700}</style>
+<text x="20" y="38" class="h" fill="#3dff9a" filter="url(#glow)">&gt;</text>
+<text x="50" y="38" class="h" fill="url(#g)" filter="url(#glow)">~/snake.exe</text>
+<rect x="241" y="14" width="13" height="28" fill="#00f0ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect>
+<line x1="20" y1="54" x2="880" y2="54" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-dasharray="14 8" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-22" dur="0.8s" repeatCount="indefinite"/></line>
+</svg>
