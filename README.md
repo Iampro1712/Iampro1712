@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=MasterDev&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Web%20%26%20Web%20App%20Developer&descSize=20&descAlignY=60" width="100%" alt="MasterDev banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=MasterDev&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Web%20and%20Web%20App%20Developer&descSize=20&descAlignY=60" width="100%" alt="MasterDev banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Hi+there!+%F0%9F%91%8B+I'm+MasterDev;Junior+Developer+%7C+Computer+Engineer;I+love+exploring+new+frameworks+%26+plugins;Open+to+new+challenges+and+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
